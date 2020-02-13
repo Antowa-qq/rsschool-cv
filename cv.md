@@ -36,3 +36,7 @@ function fizzbuzz(n) {
     return arr;
 }
 ```
+## Education :
+At the moment I am studying at the BNTU in the second year at the Faculty of Information Technology and Robotics.
+## English :
+My level of English is A2. Now I am taking courses at school [English Papa](https://englishpapa.by).
