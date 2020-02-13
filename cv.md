@@ -10,4 +10,29 @@ I am a young beginner specialist. I strive to reveal myself in the field of prog
 * I really like to solve tasks on [codewars](https://www.codewars.com/users/Antowa-qq) by javascript.
 * I know the syntax and philosophy of C# and Java.
 * I created a database on the SQL Server and worked with her using SQL language.
+## Code examples : 
+Сlassic task [FizzBuzz](https://www.codewars.com/kata/fizz-buzz)
+```javascript
+function fizzbuzz(n) {
 
+    let arr = new Array(n).fill(0).map((item, index) => {
+    
+        if ((index + 1) % 15 == 0) {
+            return 'FizzBuzz';
+        }
+        
+        if ((index + 1) % 3 === 0) {
+            return 'Fizz';
+        }
+        
+        if ((index + 1) % 5 === 0) {
+            return 'Buzz';
+        }
+        
+        return index + 1;
+        
+    });
+    
+    return arr;
+}
+```
