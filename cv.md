@@ -5,7 +5,7 @@
 * *telegram* : @Antowaqq
 
 ## Summary :
-I am a young beginner specialist. I strive to reveal myself in the field of programming, in particular a full-stack developer. During this lesson I do not notice the hours until I bring the work to its logical conclusion. Courses are very important to me, as I set a goal to find a place where I will be useful. I also hope to chat with interesting and smart people. I will do everything in my power!
+I'm a young beginner expert.I work for openin myself in programming sphere, especially full-stack development.So, this occupation makes me carry my work to its conclusion, at the same time I don't notice how the time goes by, because such work involves me in process.These courses are very significant for me, because I definitely have the aim.It consists in searching place, where I could be useful.I hope that I can talk to interesting and intelligent people.I'll do my best!
 
 ## Skills :
 * I know OOP.
