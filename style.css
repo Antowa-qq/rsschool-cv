@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 1.6rem;
+}
+
+a {
+  text-decoration: none;
+}
+ul {
+  padding-left: 15px;
+}
+ul > li {
+  padding: 5px;
+}
+h2 {
+  padding: 10px 0px;
+}
+
+.wrapper {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  border-bottom: 1px solid rgba(211, 211, 211, 0.651);
+}
+.header__info {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+.header__personal-photo img {
+  border-radius: 10px;
+  box-shadow: 28px 21px 11px -7px rgba(0, 0, 0, 0.25);
+}
+
+.main {
+  padding: 20px 10px 10px 10px;
+}
+.resume-content {
+  display: flex;
+  flex-direction: column;
+}
+.resume-content__item {
+  padding: 10px;
+  border-bottom: 1px solid rgba(211, 211, 211, 0.651);
+}
+.resume-content__item p {
+  padding: 10px 0px;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
+
+.resume-content__item .resume-content__item-code {
+  padding: 10px;
+  background-color: rgba(245, 245, 245, 0.651);
+}
+.resume-content__item .resume-content__item-code .color-red {
+  color: #d73a49;
+}
+.resume-content__item .resume-content__item-code .indentation-1 {
+  padding-left: 20px;
+}
+.resume-content__item .resume-content__item-code .indentation-2 {
+  padding-left: 40px;
+}
+.resume-content__item .resume-content__item-code .indentation-3 {
+  padding-left: 60px;
+}
